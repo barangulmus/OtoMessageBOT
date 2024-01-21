@@ -1,0 +1,11 @@
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\bin\Debug\otomessagebotx.exe.config
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\bin\Debug\otomessagebotx.exe
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\bin\Debug\otomessagebotx.pdb
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\obj\Debug\otomessagebotx.csproj.AssemblyReference.cache
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\obj\Debug\otomessagebotx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\obj\Debug\otomessagebotx.Form1.resources
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\obj\Debug\otomessagebotx.Properties.Resources.resources
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\obj\Debug\otomessagebotx.csproj.GenerateResource.cache
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\obj\Debug\otomessagebotx.csproj.CoreCompileInputs.cache
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\obj\Debug\otomessagebotx.exe
+C:\Users\Baran\source\repos\otomessagebotx\otomessagebotx\obj\Debug\otomessagebotx.pdb
